@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Sample App</string>
+    <string name="form_text">Enter Receipt Id and Session token below :</string>
+    <string name="receipt_hint">Enter Receipt Id</string>
+    <string name="token_hint">Enter session token</string>
+    <string name="send_request">send request</string>
+    <string name="empty_receipt_id">Receipt id should not be empty</string>
+    <string name="empty_session_token">Session Token should not be empty</string>
+    <string name="service_error_msg">Service error.Please try again later.</string>
+</resources>
